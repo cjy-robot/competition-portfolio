@@ -1,0 +1,16 @@
+# GitHub 单文件硬上限 100 MB。答辩 PPT 内嵌了 176 MB 演示视频，
+# 整包 227 MB，无法上传；同名 PDF（视频转为静态封面帧）已随仓库提供。
+*.pptx
+
+# 通用大文件护栏
+*.mp4
+*.mov
+*.avi
+*.zip
+*.7z
+
+# 系统垃圾
+Thumbs.db
+desktop.ini
+.DS_Store
+~$*
