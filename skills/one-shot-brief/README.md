@@ -4,6 +4,8 @@
 
 一个给 AI 编程助手用的 **skill**（技能提示词）：面向工程任务的需求采集流程。用户说一句"帮我写个东西"，它不会立刻开写，也不会挤牙膏式地一问一答，而是把需要的信息**在一条消息里问齐**，答完先做一次**会审**（矛盾 / 风险 / 假设），再动手生成。
 
+**国内镜像**：[gitee.com/chen-jiyunhhh/one-shot-brief-skill](https://gitee.com/chen-jiyunhhh/one-shot-brief-skill)（内容同步，适合国内网络）
+
 ## 解决什么问题
 
 常见的 prompt skill 是这样的：
