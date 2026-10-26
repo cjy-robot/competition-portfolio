@@ -81,3 +81,10 @@
 **视觉与算法**：OpenCV ｜ 视觉伺服闭环 ｜ 目标检测后处理（Anchor 解码 / NMS / 置信度筛选）
 
 **上位机与系统**：Python ｜ Linux / 树莓派 ｜ 多线程调度 ｜ 串口协议设计
+---
+
+## 开源工具
+
+| 工具 | 说明 |
+|---|---|
+| [one-shot-brief](skills/one-shot-brief/) | 工程任务的一次性需求采集 skill：把「你问一句我答一句」改成「一次问齐 + 图纸会审」，适用于 Claude Code / DSH / CodeBuddy 等支持 skills 的工具 |
